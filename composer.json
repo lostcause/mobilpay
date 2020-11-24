@@ -1,5 +1,5 @@
 {
-    "name": "adrianbarbos/mobilpay",
+    "name": "lostcause/mobilpay",
     "description": "Laravel 5 mobilpay wrapper around omnipay with omnipay-mobilpay driver",
     "type": "library",
     "license": "MIT",
